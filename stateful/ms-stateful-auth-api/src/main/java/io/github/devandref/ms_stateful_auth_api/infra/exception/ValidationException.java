@@ -1,4 +1,4 @@
-package io.github.devandref.ms_stateful_auth_api.exception;
+package io.github.devandref.ms_stateful_auth_api.infra.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
